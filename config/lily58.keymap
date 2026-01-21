@@ -89,8 +89,8 @@
             display-name = "Move";
             bindings = <
 &trans  &trans             &trans      &trans           &trans            &trans                               &trans     &trans         &trans       &trans     &trans    &trans
-&none   &kp C_VOLUME_DOWN  &kp K_MUTE  &kp C_VOLUME_UP  &kp C_PLAY_PAUSE  &kp K_NEXT                           &kp HOME   &kp PAGE_DOWN  &kp PAGE_UP  &kp END    &kp DEL   &none
-&trans  &none              &kp C_MENU  &kp LEFT_GUI     &kp RIGHT_ALT     &kp RIGHT_CONTROL                    &kp LEFT   &kp DOWN       &kp UP       &kp RIGHT  &none     &none
+&none   &kp C_VOLUME_DOWN  &kp K_MUTE  &kp C_VOLUME_UP  &kp C_PLAY_PAUSE  &kp K_NEXT                           &kp HOME   &kp PAGE_DOWN  &kp PAGE_UP  &kp END    &none     &none
+&trans  &none              &kp C_MENU  &kp LEFT_GUI     &kp RIGHT_ALT     &kp RIGHT_CONTROL                    &kp LEFT   &kp DOWN       &kp UP       &kp RIGHT  &kp DEL   &none
 &trans  &kp F2             &kp F5      &kp F10          &kp F11           &kp F12            &trans    &trans  &kp EQUAL  &kp PLUS       &kp MINUS    &kp LBKT   &kp RBKT  &kp BSLH
                                        &trans           &trans            &trans             &trans    &trans  &trans     &trans         &trans
             >;
